@@ -1,0 +1,77 @@
+.carousel-container {
+  position: relative;
+  max-width: 100%;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+
+.carousel-slide {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+  background-color: #f0f0f0; /* opcional: color de fondo donde no hay imagen */
+}
+
+.carousel-buttons {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.carousel-buttons button {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+#slide1:checked~.carousel-slide {
+  transform: translateX(0%);
+}
+
+#slide2:checked~.carousel-slide {
+  transform: translateX(-100%);
+}
+
+#slide3:checked~.carousel-slide {
+  transform: translateX(-200%);
+}
+
+.carousel-nav {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.carousel-nav label {
+  cursor: pointer;
+  padding: 5px;
+  font-size: 20px;
+  color: gray;
+}
+
+input#slide1:checked~.carousel-nav label[for="slide1"],
+input#slide2:checked~.carousel-nav label[for="slide2"],
+input#slide3:checked~.carousel-nav label[for="slide3"] {
+  color: black;
+}
+
+/* Estilos logo */
+.md-header__button.md-logo img {
+  height: 36px;  /* o el tamaño deseado */
+}
