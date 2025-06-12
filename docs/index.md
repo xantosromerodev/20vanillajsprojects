@@ -74,7 +74,7 @@ Estar en comunidad multiplica tu motivación. 💪
 
 Puedes invitarnos un café y ayudarnos a seguir creando más retos como este 💛
 
-[![buymeacoffee.com/xantosromero](/docs/images/bmc.jpeg)](https://buymeacoffee.com/xantosromero)
+[![buymeacoffee.com/xantosromero](images/bmc.jpeg)](https://buymeacoffee.com/xantosromero)
 
 ---
 
