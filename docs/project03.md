@@ -8,8 +8,8 @@
   <input type="radio" name="carousel" id="slide2">
 
   <div class="carousel-slide">
-    <img src="images/project03/01.png" alt="Imagen 1">
-    <img src="images/project03/02.png" alt="Imagen 2">
+    <img src="/images/project03/01.png" alt="Imagen 1">
+    <img src="/images/project03/02.png" alt="Imagen 2">
   </div>
 
   <div class="carousel-nav">
