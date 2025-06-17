@@ -3,7 +3,7 @@ site_name: 20VanillaJSProjects
 theme:
     name: dracula
     # logo: /images/logo.png
-    favicon: images/favicon.ico
+    favicon: img/favicon.ico
 
 nav:
     - Welcome: index.md
