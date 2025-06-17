@@ -1,4 +1,4 @@
-![portada 20vanillajsprojects](/img/portada.png)
+![portada 20vanillajsprojects](../img/portada.png)
 
 ### Aprende JavaScript construyendo 20 proyectos reales en 20 días
 
@@ -74,7 +74,7 @@ Estar en comunidad multiplica tu motivación. 💪
 
 Puedes invitarnos un café y ayudarnos a seguir creando más retos como este 💛
 
-[![buymeacoffee.com/xantosromero](/img/bmc.jpeg)](https://buymeacoffee.com/xantosromero)
+[![buymeacoffee.com/xantosromero](../img/bmc.jpeg)](https://buymeacoffee.com/xantosromero)
 
 ---
 

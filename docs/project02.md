@@ -9,9 +9,9 @@
   <input type="radio" name="carousel" id="slide3">
 
   <div class="carousel-slide">
-    <img src="/img/project2-01.png" alt="Imagen 1">
-    <img src="/img/project2-02.png" alt="Imagen 2">
-    <img src="/img/project2-03.png" alt="Imagen 3">
+    <img src="../img/project2-01.png" alt="Imagen 1">
+    <img src="../img/project2-02.png" alt="Imagen 2">
+    <img src="../img/project2-03.png" alt="Imagen 3">
   </div>
 
   <div class="carousel-nav">
